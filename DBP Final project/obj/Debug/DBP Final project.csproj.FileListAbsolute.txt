@@ -1,0 +1,44 @@
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\bin\Debug\DBP Final project.exe.config
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\bin\Debug\DBP Final project.exe
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\bin\Debug\DBP Final project.pdb
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.LoginForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.Properties.Resources.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.exe
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.pdb
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.DashboardForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP Final project.csproj.CopyComplete
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.cartForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.ChartForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.CustomerForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.goodsPaidForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.InventoryManagementForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final project\DBP Final project\obj\Debug\DBP_Final_project.PurchaseDetailsForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\obj\Debug\DBP_Final_project.goodsShowForm.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\obj\Debug\DBP_Final_project.UserSiginIn.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\obj\Debug\DBP_Final_project.UserSiginUP.resources
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Desktop\3학년2학기\DBP\실습과제코드\DBP Final Project\DBP Final project\bin\Debug\System.ValueTuple.xml
